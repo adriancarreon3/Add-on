@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.3-01IS" name="Repositorio 3-01IS" version="1.0.0" provider-name="Carreon Ruelas Cervantes Valenzuela">
+	<extension point="xbmc.addon.repository" name="Repositorio 3-01IS">
+		<info compressed="false">https://raw.github.com/adriancarreon3/Add-on/master/addons.xml</info>
+		<checksum>https://raw.github.com/adriancarreon3/Add-on/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/adriancarreon3/Add-on/master</datadir>
+	</extension>
+	<extension point="xmbc.addon.metadata">
+		<summary>Repositorio 3-01IS</summary>
+		<description lang="es">Instala los Addons de los PROS!.</description>
+		<disclaimer></disclaimer>
+		<plataform>all</plataform>
+	</extension>
+</addon>
+
+<addon id="service.subtitles.301IS-CRCV"
+       name="3-01 Ingenieria en Software[ArgenTeam]"
+       version="0.0.2"
+       provider-name="Carreon Ruelas Cervantes Valenzuela">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.subtitle.module"
+             library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">3-01 SUBTITULOS [ArgenTeam]</summary>
+    <summary lang="en">3-01 SUBTITLES [ArgenTeam]</summary>
+    <description lang="es">SUBTITULOS PARA PRO!.. Version [ArgenTeam]</description>
+    <description lang="en">PRO SUBTITLES!..Version [ArgenTeam]</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>es</language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</forum>
+    <website>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</website>
+    <email>adriancarreon3@gmail.com</email>
+    <source>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</source>
+  </extension>
+</addon>
+
+<addon id="service.subtitles.301IS-CRCV [Opensubtitles]"
+       name="3-01 Ingenieria en Software [Opensubtitles]"
+       version="0.0.1"
+       provider-name="Carreon Ruelas Cervantes Valenzuela">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.subtitle.module"
+             library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">3-01 SUBTITULOS [Opensubtitles]</summary>
+    <summary lang="en">3-01 SUBTITLES [Opensubtitles]</summary>
+    <description lang="es">SUBTITULOS PARA PRO!..Version [Opensubtitles]</description>
+    <description lang="en">PRO SUBTITLES!..Version [Opensubtitles]</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>es</language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</forum>
+    <website>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</website>
+    <email>adriancarreon3@gmail.com</email>
+    <source>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</source>
+  </extension>
+</addon>
+
+<addon id="service.subtitles.301IS-CRCV[podnapisi]"
+       name="3-01 Ingenieria en Software[Podnapisi.net]"
+       version="0.0.3"
+       provider-name="Carreon Ruelas Cervantes Valenzuela">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.subtitle.module"
+             library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">3-01 SUBTITULOS[Podnapisi.net]</summary>
+    <description lang="en">SUBTITULOS PARA PRO!..Version [Podnapisi.net]</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</forum>
+    <website></website>
+    <email></email>
+    <source>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</source>
+  </extension>
+</addon>
+
+<addon id="service.subtitles.301IS-CRCV [Subdivx]"
+       name="3-01 Ingenieria en Software [Subdivx]"
+       version="0.0.4"
+       provider-name="Carreon Ruelas Cervantes Valenzuela">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.subtitle.module"
+             library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">3-01 SUBTITULOS [Subdivx]</summary>
+    <description lang="es">SUBTITULOS PARA PRO!..Version [Subdivx]</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>es en</language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</forum>
+    <website>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</website>
+    <email>adriancarreon3@gmail.com</email>
+    <source>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</source>
+  </extension>
+</addon>
+</addons>

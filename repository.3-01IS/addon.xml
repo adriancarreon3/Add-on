@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.3-01IS" name="Repositorio 3-01IS" version="1.0.0" provider-name="Carreon Ruelas Cervantes Valenzuela">
+	<extension point="xbmc.addon.repository" name="Repositorio 3-01IS">
+		<info compressed="false">https://raw.github.com/adriancarreon3/Add-on/master/addons.xml</info>
+		<checksum>https://raw.github.com/adriancarreon3/Add-on/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/adriancarreon3/Add-on/master</datadir>
+	</extension>
+	<extension point="xmbc.addon.metadata">
+		<summary>Repositorio 3-01IS</summary>
+		<description lang="es">Instala los Addons de los PROS!.</description>
+		<disclaimer></disclaimer>
+		<plataform>all</plataform>
+	</extension>
+</addon>

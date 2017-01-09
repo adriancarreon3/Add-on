@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.subtitles.301IS-CRCV [Subdivx]"
+       name="3-01 Ingenieria en Software [Subdivx]"
+       version="0.0.4"
+       provider-name="Carreon Ruelas Cervantes Valenzuela">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.subtitle.module"
+             library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">3-01 SUBTITULOS [Subdivx]</summary>
+    <description lang="es">SUBTITULOS PARA PRO!..Version [Subdivx]</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>es en</language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</forum>
+    <website>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</website>
+    <email>adriancarreon3@gmail.com</email>
+    <source>https://www.facebook.com/groups/837605236252054/?ref=bookmarks</source>
+  </extension>
+</addon>

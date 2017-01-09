@@ -6,7 +6,7 @@
 		<checksum>https://raw.github.com/adriancarreon3/Add-on/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.github.com/adriancarreon3/Add-on/master</datadir>
 	</extension>
-	<extension point="xmbc.addon.metadata">
+	<extension point="xbmc.addon.metadata">
 		<summary>Repositorio 3-01IS</summary>
 		<description lang="es">Instala los Addons de los PROS!.</description>
 		<disclaimer></disclaimer>

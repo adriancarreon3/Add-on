@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.3-01IS" name="Repositorio 3-01IS" version="1.0.2" provider-name="Carreon Ruelas Cervantes Valenzuela">
+<addon id="repository.3-01IS" name="Repositorio 3-01IS" version="1.0.3" provider-name="Carreon Ruelas Cervantes Valenzuela">
 	<extension point="xbmc.addon.repository" name="Repositorio 3-01IS">
 		<info compressed="false">https://raw.github.com/adriancarreon3/Add-on/master/addons.xml</info>
 		<checksum>https://raw.github.com/adriancarreon3/Add-on/master/addons.xml.md5</checksum>

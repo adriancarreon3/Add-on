@@ -26,7 +26,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.3-01IS" name="Repositorio 3-01IS" version="1.0.2" provider-name="Carreon Ruelas Cervantes Valenzuela">
+<addon id="repository.3-01IS" name="Repositorio 3-01IS" version="1.0.3" provider-name="Carreon Ruelas Cervantes Valenzuela">
 	<extension point="xbmc.addon.repository" name="Repositorio 3-01IS">
 		<info compressed="false">https://raw.github.com/adriancarreon3/Add-on/master/addons.xml</info>
 		<checksum>https://raw.github.com/adriancarreon3/Add-on/master/addons.xml.md5</checksum>
@@ -40,7 +40,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.301IS-CRCV"
+<addon id="service.subtitles.3-01IS_ArgenTeam"
        name="3-01 Ingenieria en Software[ArgenTeam]"
        version="0.0.2"
        provider-name="Carreon Ruelas Cervantes Valenzuela">
@@ -65,7 +65,7 @@
   </extension>
 </addon>
 
-<addon id="service.subtitles.301IS-CRCV [Opensubtitles]"
+<addon id="service.subtitles.3-01IS_OpenSubtitles"
        name="3-01 Ingenieria en Software [Opensubtitles]"
        version="0.0.1"
        provider-name="Carreon Ruelas Cervantes Valenzuela">
@@ -90,7 +90,7 @@
   </extension>
 </addon>
 
-<addon id="service.subtitles.301IS-CRCV[podnapisi]"
+<addon id="service.subtitles.3-01IS_Podnapisi"
        name="3-01 Ingenieria en Software[Podnapisi.net]"
        version="0.0.3"
        provider-name="Carreon Ruelas Cervantes Valenzuela">
@@ -112,7 +112,7 @@
   </extension>
 </addon>
 
-<addon id="service.subtitles.301IS-CRCV [Subdivx]"
+<addon id="service.subtitles.3-01IS_Subdivx"
        name="3-01 Ingenieria en Software [Subdivx]"
        version="0.0.4"
        provider-name="Carreon Ruelas Cervantes Valenzuela">
